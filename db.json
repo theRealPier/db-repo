@@ -1,4 +1,5 @@
-"items":
+{
+      "items":
 [
       { id: 1, description: 'One', import: 1 },
       { id: 2, description: 'Two', import: 1 },
@@ -11,3 +12,4 @@
       { id: 9, description: 'Ten', import: 1 },
       { id: 10, description: 'Eleven', import: 1 }
 ]
+}
