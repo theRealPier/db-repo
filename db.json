@@ -23,30 +23,5 @@
       "id": 5,
       "description": "Five",
       "import": 1
-    },
-    {
-      "id": 6,
-      "description": "Seven",
-      "import": 1
-    },
-    {
-      "id": 7,
-      "description": "Eight",
-      "import": 1
-    },
-    {
-      "id": 8,
-      "description": "Nine",
-      "import": 1
-    },
-    {
-      "id": 9,
-      "description": "Ten",
-      "import": 1
-    },
-    {
-      "id": 10,
-      "description": "Eleven",
-      "import": 1
     }
   ]
