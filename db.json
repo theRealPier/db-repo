@@ -1,5 +1,4 @@
-{
-  "items": [
+[
     {
       "id": 1,
       "description": "One",
@@ -51,4 +50,3 @@
       "import": 1
     }
   ]
-}
